@@ -22,15 +22,15 @@ This project demonstrates a Security Operations Center (SOC) home lab built usin
 
 ### Failed Login Detection
 
-![Failed Login](screenshots/failed-login.png)
+![Failed Login](Screenshots/failed-logins.png)
 
 ### Account Creation Detection
 
-![Account Created](screenshots/account-created.png)
+![Account Created](Screenshots/user-created.png)
 
 ### Account Deletion Detection
 
-![Account Deleted](screenshots/account-deleted.png)
+![Account Deleted](Screenshots/user-deleted.png)
 
 ## MITRE ATT&CK Mapping
 
